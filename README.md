@@ -59,9 +59,17 @@ src/
 └── README.md
 ```
 ## 部分截图展示 
-<img src="SomeDisplays/show(1).jpg" width="260" height="400" alt="部分截图预览">
-<img src="SomeDisplays/show(2).jpg" width="260" height="400" alt="部分截图预览">
-<img src="SomeDisplays/show(3).jpg" width="260" height="400" alt="部分截图预览">
-<img src="SomeDisplays/show(4).jpg" width="260" height="400" alt="部分截图预览">
-<img src="SomeDisplays/show(5).jpg" width="260" height="400" alt="部分截图预览">
-<img src="SomeDisplays/show(6).jpg" width="260" height="400" alt="部分截图预览">
+<table>
+  <tr>
+    <td><img src="SomeDisplays/show(1).jpg" width="300"></td>
+    <td><img src="SomeDisplays/show(2).jpg" width="300"></td>
+    <td><img src="SomeDisplays/show(3).jpg" width="300"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="SomeDisplays/show(4).jpg" width="300"></td>
+    <td><img src="SomeDisplays/show(5).jpg" width="300"></td>
+    <td><img src="SomeDisplays/show(6).jpg" width="300"></td>
+  </tr>
+</table>
