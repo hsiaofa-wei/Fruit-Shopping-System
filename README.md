@@ -10,13 +10,11 @@
 - 客服中心
 
 ## 技术栈
-| 技术        | 说明                  |
-|-------------|----------------------|
-| Vue 3       | 前端框架             |
-| Vite        | 构建工具             |
-| Vue Router  | 路由管理             |
-| Element Plus| UI组件库             |
-| Pinia       | 状态管理（store.js） |
+- 前端框架：Vue 3
+- 构建工具：Vite        
+- 路由管理：Vue Router      
+- UI组件库：Element Plus            
+- 状态管理：Pinia
 
 ## 不足之处
 - 没有后台数据库，数据存储在本地
@@ -60,10 +58,10 @@ src/
 ├── App.vue          # 根组件
 └── README.md
 ```
-## 部分截图展示
-![部分截图预览](SomeDisplays/show(1).jpg)
-![部分截图预览](SomeDisplays/show(2).jpg)
-![部分截图预览](SomeDisplays/show(3).jpg)
-![部分截图预览](SomeDisplays/show(4).jpg)
-![部分截图预览](SomeDisplays/show(5).jpg)
-![部分截图预览](SomeDisplays/show(6).jpg)
+## 部分截图展示 
+<img src="SomeDisplays/show(1).jpg" width="260" height="400" alt="部分截图预览">
+<img src="SomeDisplays/show(2).jpg" width="260" height="400" alt="部分截图预览">
+<img src="SomeDisplays/show(3).jpg" width="260" height="400" alt="部分截图预览">
+<img src="SomeDisplays/show(4).jpg" width="260" height="400" alt="部分截图预览">
+<img src="SomeDisplays/show(5).jpg" width="260" height="400" alt="部分截图预览">
+<img src="SomeDisplays/show(6).jpg" width="260" height="400" alt="部分截图预览">
